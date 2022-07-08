@@ -1,12 +1,14 @@
-> ⚠ I created this repository years ago, while studying and practising coding. This is not a real sample of my current coding skills. ;)
+> ⚠ I created this repository years ago, while studying and practising coding. 
+> This is not a real sample of my current coding skills. ;)
 
-# header-converter-cli
+# Monitor-chollometro-1.0
 
-> Convert HTTP header format.
+> Chollometro.com scrapper that sends the parsed info to several discord channels.
 
 ## Usage
 
-* On the root, create a ``headers.txt`` file with the headers to convert.
-* Run the executable and select the output format.
-* Check the ``result.txt`` file
+* Fill ``.env`` with settings.
+* Set up the filters you want to add in ``filters.json``.
+* Add proxies if you want in ``proxies.txt``.
+* Run it.
 
