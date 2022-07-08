@@ -23,7 +23,7 @@ const linkWebhook_Filtered = (() => {
 })();
 
 const linkWebhook_Unfiltered = (() => {
-    if (privado)
+    if (PRIVATE_DEPLOY === 'true')
         //Privado unfiltered
         return DISCORD_WEBHOOK_URL_PRIVATE_UNFILTERED
     else
