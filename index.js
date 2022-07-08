@@ -67,7 +67,7 @@ const loop = async (array, time) => {
 
 const resolve = async () => {
 
-    console.log("\nChollometro's Imago scraper running...")
+    console.log("\nChollometro's Fentos scraper running...")
     const proxyList = await ProxyJSON()
     console.log(`${proxyList.length} proxies cargados.`)
 

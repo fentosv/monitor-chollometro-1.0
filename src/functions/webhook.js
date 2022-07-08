@@ -53,7 +53,7 @@ const Webhook_Item = (webhook_Url, title, link, text, price, priceStrikethrough,
         .setColor('#f27023 ')
         // .setImage(linkImg)
         .setThumbnail(linkImg)
-        .setFooter('Chollómetro monitor, by Imago', 'https://i.ibb.co/zxtL34D/pngwing-com.png')
+        .setFooter('Chollómetro monitor, by Fentos', 'https://i.ibb.co/zxtL34D/pngwing-com.png')
         .setTimestamp();
 
     hook.setUsername('Chollómetro');
@@ -119,7 +119,7 @@ const error = (title, text) => {
         // .setImage(linkImg)
 
         // .setThumbnail('https://www.tuexpertoapps.com/wp-content/uploads/2018/10/chollometro-1-950x642.jpg.webp')
-        .setFooter('Chollómetro monitor errors, by Imago', 'https://i.ibb.co/zxtL34D/pngwing-com.png')
+        .setFooter('Chollómetro monitor errors, by Fentos', 'https://i.ibb.co/zxtL34D/pngwing-com.png')
 
         .setTimestamp();
 
