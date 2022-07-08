@@ -99,11 +99,7 @@ const toDiscord = async (filtradoWhiteList, filtradoRepetidos) => {
         }
     }
 
-} //Fin función toDiscord
-
-// Webhook_Item(title, link, text, price, priceStrikethrough, linkImg)
-// Webhook_Item("https://discordapp.com/api/webhooks/783307691166138368/8Jwjsw0fUNifGk4eEP-FViGVsXmlsderVJYjgqMD-yYNtuL9QUABozTSa2u8RDMD3KuE", "Nike Revolution 5, talla 17 (niñxs)", 'https://www.chollometro.com/ofertas/nike-revolution-5-talla-17-ninxs-549897', "Text", "`` 14,99€ ``", " ", 'https://www.tuexpertoapps.com/wp-content/uploads/2018/10/chollometro-1-950x642.jpg.webp')
-
+}
 
 
 const error = (title, text) => {
