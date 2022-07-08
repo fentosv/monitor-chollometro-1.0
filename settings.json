@@ -1,0 +1,9 @@
+{
+    "update": "When I did this script, I didn't use .env files, so I set my config here",
+    "_comment": [
+        "raspberry TRUE si corremos script en  raspberry",
+        "privado TRUE si queremos webhooks privados"
+    ],
+    "raspberry": false,
+    "privado": true
+}

@@ -1,0 +1,33 @@
+{
+    "blackList": [
+        "jamon",
+        "jamón",
+        "chuletas",
+        "chorizo",
+        "panceta",
+        "entrecot",
+        "solomillo",
+        "queso"
+    ],
+    "whiteList": [
+        "impresora",
+        "proyector",
+        "asics",
+        "deportivas",
+        "samsung",
+        "xiaomi",
+        "huawei",
+        "raspberry",
+        "monitor",
+        "microondas",
+        "aspiradora",
+        "cubiertos",
+        "cubertería",
+        "sartén",
+        "sartenes",
+        "cacerola",
+        "olla",
+        "vajilla",
+        "platos"
+    ]
+}
